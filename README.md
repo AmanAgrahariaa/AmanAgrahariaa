@@ -61,6 +61,9 @@
 <!-- Connect with Me Section -->
 ## 📱 Connect with Me:
 <a href="https://www.linkedin.com/in/aman0162/" target="_blank" rel="noreferrer"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Aman Agrahari LinkedIn" height="30" width="120" /></a>
+<a href="mailto:aagrahari629@gmail.com" target="_blank" rel="noreferrer">
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Aman Agrahari Gmail" height="30" width="90" />
+</a>
 <a href="https://twitter.com/AmanAgr17117561" target="_blank" rel="noreferrer"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Your Twitter" height="30" width="100" /></a>
 <a href="https://www.instagram.com/last_player_aman/" target="_blank" rel="noreferrer"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Your Instagram" height="30" width="110" /></a>
 <!-- Divider -->
