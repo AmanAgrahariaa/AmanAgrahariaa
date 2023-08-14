@@ -5,10 +5,10 @@
 
 ## 📝 About Me :
 - 🎓 I'm pursuing Masters in Computer Applications(MCA) from **National Institute of Technology, Jamshedpur**
-- 🌱 I'm currently learning Machine Learning in JS
+- 🌱 I'm currently learning Machine Learning
 - ✏️ I love solving problems
-- 🤖 Interested in ML/AI
-- ⚡ Fun fact: I love to draw and do creative stuff
+- 🤖 Interested in Web/ML/AI
+- ⚡ Fun fact: I have a passion for traveling and discovering new cultures
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -25,28 +25,23 @@
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;"/>
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Express.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="React.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" style="padding-right:10px;"/>
 <img align="left" alt="CPP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Thunder Client" width="26px" src="https://raw.githubusercontent.com/rangav/thunder-client/master/docs/icon.png" style="padding-right:10px;"/>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 📱 Connect with Me:
-<a href="https://www.linkedin.com/in/aman-agrahari/" target="_blank" rel="noreferrer"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Aman Agrahari LinkedIn" height="30" width="120" /></a>
+<a href="https://www.linkedin.com/in/aman0162/" target="_blank" rel="noreferrer"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Aman Agrahari LinkedIn" height="30" width="120" /></a>
+<a href="https://twitter.com/AmanAgr17117561" target="_blank" rel="noreferrer"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Your Twitter" height="30" width="100" /></a>
+<a href="https://www.instagram.com/last_player_aman/" target="_blank" rel="noreferrer"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Your Instagram" height="30" width="110" /></a>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-## 🚀 Full Stack Skills:
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="Express.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="React.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;"/>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -55,5 +50,8 @@
 
  <img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=AmanAgrahariaa&show_icons=true&theme=dark&locale=en" alt="AmanAgrahariaa" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmanAgrahariaa&theme=dark)
+## 📊 Contribution Stats:
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=AmanAgrahariaa&hide_stars=true&hide_rank=true&hide_border=true)
+
 ![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=AmanAgrahariaa&theme=github)
+
