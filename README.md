@@ -77,11 +77,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmanAgrahariaa&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AmanAgrahariaa&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
 </p>
+
 
 <!-- Contribution Stats -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanAgrahariaa&hide_stars=true&hide_rank=true&hide_border=true" alt="GitHub Contributions" />
 </p>
+
